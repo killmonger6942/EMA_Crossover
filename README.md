@@ -30,8 +30,9 @@ The Walk-Forward Analysis on SPY (2010–2025) yielded a **Negative Result**, wh
    pip install -r requirements.txt
 
 ## Performance Analysis
-![SPY Walk-Forward Analysis](https://killmonger6942.github.io/EMA_Crossover/spy_wfo_tearsheet.html)
-![Nifty50 Walk-Forward Analysis](https://killmonger6942.github.io/EMA_Crossover/nifty_wfo_tearsheet.html)
-![BTC Walk-Forward Analysis](https://killmonger6942.github.io/EMA_Crossover/crypto_wfo_tearsheet.html)
+[![SPY Analysis](https://img.shields.io/badge/Report-SPY_Analysis-blue?style=for-the-badge&logo=google-analytics)](https://killmonger6942.github.io/EMA_Crossover/spy_wfo_tearsheet.html)
+[![Nifty50 Analysis](https://img.shields.io/badge/Report-Nifty50_Analysis-orange?style=for-the-badge&logo=google-analytics)](https://killmonger6942.github.io/EMA_Crossover/nifty_wfo_tearsheet.html)
+[![BTC Analysis](https://img.shields.io/badge/Report-BTC_Analysis-f7931a?style=for-the-badge&logo=bitcoin)](https://killmonger6942.github.io/EMA_Crossover/crypto_wfo_tearsheet.html)
+
 
 
