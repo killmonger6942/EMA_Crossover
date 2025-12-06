@@ -28,3 +28,9 @@ The Walk-Forward Analysis on SPY (2010–2025) yielded a **Negative Result**, wh
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+## Performance Analysis
+![SPY Walk-Forward Analysis](spy_wfo_tearsheet.html)
+![Nifty50 Walk-Forward Analysis](nifty_wfo_tearsheet.html)
+![BTC Walk-Forward Analysis](crypto_wfo_tearsheet.html)
+
