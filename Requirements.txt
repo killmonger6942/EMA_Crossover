@@ -1,0 +1,5 @@
+yfinance
+pandas
+backtesting
+quantstats
+numpy<2.0
